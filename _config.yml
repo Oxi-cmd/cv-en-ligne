@@ -1,0 +1,15 @@
+title: "Rob Inter | Développeur Full-Stack SLAM"
+email: "ton.email@exemple.com"
+description: >- # Cette description apparaît sur Google et les réseaux sociaux
+  Étudiant en BTS SIO option SLAM, passionné par le développement d'applications 
+  robustes et l'architecture logicielle. Découvrez mes projets et mes compétences.
+
+# Configuration des liens sociaux (affichés par le thème Minima)
+github_username:  ton_github
+linkedin_username: ton_linkedin
+
+# Paramètres de build
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
