@@ -7,7 +7,7 @@ title: Accueil
 
 ## Présentation
 Bonjour, je suis **Julian Salvado**, étudiant en **BTS SIO**.  
-Passionné par **l'informatique, notamment le développement **, je suis actuellement à la recherche d'un stage**.
+Passionné par l'informatique, notamment le développement , je suis actuellement à la recherche d'un stage.
 
 Découvrez mon parcours, mes compétences et mes projets ci-dessous.
 
