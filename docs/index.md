@@ -1,3 +1,8 @@
+---
+layout: home
+title: Accueil
+---
+
 # Bienvenue sur mon CV en ligne
 
 ## Présentation
@@ -5,8 +10,6 @@ Bonjour, je suis **Julian Salvado**, étudiant en **BTS SIO**.
 Passionné par **l'informatique, notamment le développement **, je suis actuellement à la recherche d'un stage**.
 
 Découvrez mon parcours, mes compétences et mes projets ci-dessous.
-
----
 
 J'ai pu faire un Bac STI2D option SIN et un début de formation en réseaux qui n'a pas aboutie.
 Mon objectif est d'obtenir le diplôme de fin de deuxième année de mon bts;
@@ -19,5 +22,4 @@ mail : salvadomadronajulian@gmail.com.
 lien linkedin : [Salvado Julian](www.linkedin.com/in/julian-salvado-madrona-9354a5318)
 
 
-
-
+---
